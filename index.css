@@ -1,0 +1,88 @@
+.page {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #66525b;
+}
+.group {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-top: 1px;
+}
+.body {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 741px;
+  height: 1056px;
+  background-color: #03a9f5;
+}
+.actionBg {
+  position: absolute;
+  left: 160px;
+  top: 62px;
+  width: 386px;
+  height: 75px;
+}
+.banner {
+  position: absolute;
+  top: 651px;
+  right: 11px;
+  width: 691px;
+  height: 253px;
+}
+.iconFile {
+  position: absolute;
+  top: 70px;
+  right: 28px;
+  width: 50px;
+  height: 57px;
+}
+.longBanner {
+  position: relative;
+  width: 738px;
+  height: 1053px;
+  margin-top: 1px;
+}
+.footer {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  margin-top: -1px;
+}
+.badge {
+  width: 63px;
+  height: 32px;
+  margin-right: 198px;
+}
+.iconPiece {
+  width: 51px;
+  height: 9px;
+  margin-right: 168px;
+}
+.logo {
+  width: 155px;
+  height: 128px;
+  margin-top: 2px;
+}
+.group1 {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  margin-top: 13px;
+}
+.entryPic {
+  width: 369px;
+  height: 186px;
+  margin-top: 117px;
+  margin-right: 5px;
+}
+.entryPic1 {
+  width: 376px;
+  height: 301px;
+}
